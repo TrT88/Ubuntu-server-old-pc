@@ -1,0 +1,12 @@
+.DS_Store
+*.log
+*.tmp
+*.swp
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+id_rsa
+id_ed25519
+.ssh/
